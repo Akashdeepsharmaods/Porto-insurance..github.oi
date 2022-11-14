@@ -1,0 +1,426 @@
+@media screen and (min-width: 1921px){
+  html{
+    font-size: 0.833339vw;
+  }
+}
+@media screen and (max-width: 1920px){
+  html{
+    font-size: 0.833339vw;
+  }
+}
+@media screen and (max-width: 992px){
+  html{
+    font-size:0.95vw;
+  }
+  h2{
+    font-size: 4rem !important;
+  }
+  h2 span{
+    font-size: 4rem !important;
+  }
+  h3{
+    font-size: 3rem !important;
+  }
+  p{
+    font-size: 2rem !important;
+  }
+  p span{
+    font-size: 1.875rem !important;
+  }
+  h5{
+    font-size: 3.5rem !important;
+  }
+  h6{
+    font-size: 1.85rem !important;
+  }
+  .incredible_rate_content {
+      max-width: 60rem;
+  }
+  .insurance_product .insurance_product_content h3 {
+      font-size: 2.5rem;
+  }
+  .view_more_btn span{
+    font-size: 1.75rem;
+  }
+  .type_insurance{
+    font-size: 2rem;
+  }
+  .get_quote_section .custom-form-control-group-style-1 .form-control{
+    font-size: 1.5rem;
+  }
+  .get_quote_section input.btn{
+    font-size: 2.5rem;
+  }
+  .why_choose_sec .accordion-button {
+      font-size: 2rem;
+      font-weight: 600;
+  }
+  .accordion-flush .accordion-collapse .accordion-body {
+    font-size: 2rem;
+  }
+  .why_choose_sec .btn.btn-success {
+    font-size: 2rem;
+  }
+  .get_quote_section .get_quote_section_content_text a{
+    font-size: 1.75rem;
+  }
+  .providing_insurance_contant_main{
+    max-width: 43rem;
+    margin-left: 16rem;
+      margin-top: 0rem;
+  }
+  .ceo_founder{
+    transform: translateY(20%);
+  }
+  .providing_insurance_contant_main h1 {
+      font-size:5rem;
+  }
+  .img_section img{
+    max-width: 20rem;
+    max-height: 12rem;
+  }
+  .providing_insurance_contant_main a {
+    font-size: 2rem;
+  }
+  .our_blogs .card h5.card-title{
+    font-size: 2.5rem;
+  }
+  .affordable_insurance .get_insurence_text h2 {
+    font-size: 3rem !important;
+  }
+  .affordable_insurance .get_insurence_text h3 {
+      font-size: 2.5rem;
+  }
+  .providing_insurance .col-lg-8{
+    display: none;
+  }
+  .providing_insurance .col-lg-4{
+    display: none;
+  }
+  .phone_icon_sec .phone_icon {
+    font-size: 5rem;
+  }
+  .affordable_insurance a.btn {
+    font-size: 1.9rem;
+  }
+    .footer_nav .footer_logo_sec img {
+    max-width: 15rem;
+  }
+  .footer_nav .footer_text {
+    font-size: 2rem;
+  }
+  .footer_nav .footer_email a {
+    font-size: 1.75rem;
+  }
+  .footer_nav .footer_email i.fa {
+    font-size: 2rem;
+  }
+  .footer_nav .footer_phone a {
+    font-size: 1.75rem;
+  }
+  .footer_nav .footer_phone i.fa {
+    font-size: 2rem;
+  } 
+  .footer_nav_inn h3 {
+    font-size: 2.5rem;
+  }
+  .footer_nav .footer_navigation a{
+    font-size: 2rem;
+  }
+  .footer_nav .footer_incurance a{
+    font-size: 2rem;
+  }
+  .foooter_news span {
+    max-width: 24rem;
+    font-size: 2rem;
+  }
+  .foooter_news .input{
+    font-size: 2rem;
+  }
+  .about_signature img {
+    max-width: 16rem;
+  }
+  .who_we_are .apostrophe i {
+    font-size: 2.25rem;
+  }
+  .about_signature {
+    transform: translateY(18%);
+    margin-bottom: 6rem;
+  }
+  .our_story img{
+    max-width: 20rem;
+  }
+  .our_story .nav-tabs .nav-link{
+    font-size: 3rem !important;
+    padding: 0.75rem 2.25rem 0.5rem 1rem;
+  }
+  .our_story .tab-content h3 {
+    font-size: 2.5rem;
+  } 
+  .about_us h1 {
+    font-size: 3.5rem;
+  }
+  .card-body ul li i.fa {
+    font-size: 3rem;
+    margin-right: 4rem;
+  }
+  .our_location .address_one p i {
+    font-size: 2rem;}
+  .contact_form .col .form-control{
+    font-size: 2rem !important;
+  }
+  .contact_form .btn{
+    font-size: 2.5rem;
+  }
+  .our_location .map iframe {
+    height: 50rem;
+  }
+  .footer_nav .footer_logo_sec i {
+    font-size: 3.25rem;
+    margin-right: 2rem;
+  }
+  .port_insurance img {
+    max-width: 10rem;
+  }
+  .insurance_product .insurance_product_content img {
+    width: 100%;
+    max-width: 8rem;
+  }
+  .view_more_btn svg {
+    transform: translateY(-0.25rem);
+    width: 100%;
+    max-width: 3rem;
+    height: 5rem;
+  }
+  .incredible_rate_content a.btn{
+    font-size: 2rem;
+  }
+  .blog_sect .card ul li {
+    font-size: 2rem;
+  }
+  .blog_sect .card a {
+    font-size: 2rem;
+  }
+  .blog_sect_pagination .page-item .page-link {
+    font-size: 3rem;
+  }
+  .search--bar input[placeholder]{
+    font-size: 3rem;
+    padding: 1.5rem ;
+  }
+  .search--bar .fa {
+    font-size: 2rem;
+    right: 2.5rem;
+  }
+  .recent_post ul li{
+    font-size: 2rem;
+  }
+  .recent_post p a{
+    font-size: 3rem;
+    font-weight: 600;
+  }
+  .top_nav ul.navbar-nav{
+      display: -webkit-inline-box !important;
+  }
+  .top_nav ul.navbar-nav li a i{
+    font-size: 2rem;
+  }
+  .top_nav ul li.nav-item.contact_num:before{
+    height: 2.5rem;
+  }
+  .top_nav .searchbar_header span {
+    margin-left: 1rem;
+    transform: translateY(30%);
+    font-size: 2rem;
+    margin-top: -2rem;}
+    .top_nav .searchbar_header i.fa {
+    transform: translateY(-20%);
+    font-size: 1.875rem;
+  }
+  .top_nav .searchbar_header {
+    height: 2.5rem;
+    width: 0.063rem;
+  }
+  .top_nav .navbar-brand img {
+    max-width: 15rem;
+  }
+  .second_nav .nav-item .nav-link {
+    font-size: 2.25rem !important;
+  }
+  .get_Quote {
+    font-size: 2rem;
+    margin-left: -1rem !important;
+  }
+  .navbar-light .navbar-toggler-icon {
+    font-size: 5rem;
+  }
+  .navbar-light .navbar-toggler{
+    margin: 2rem 0rem;
+  }
+  .searchbar_header_coll{
+    top: 5.75rem;
+    right: -6rem;
+  }
+  .searchbar_header_coll input{
+    width: 45rem !important;
+    font-size: 3rem;
+    padding-left: 2rem;
+  }
+  .searchbar_header_coll i.fa {
+    padding-right: 3rem;
+    font-size: 3rem;
+    top: 4.25rem;
+  }
+  .get_quote_section .get_quote_section_content_text{
+    margin-left: 7rem;
+  }
+  .get_quote_section .get_quote_section_content{
+    margin-left: 7rem;
+  }
+}
+@media screen and (max-width:577px){
+  html{
+    font-size: 1vw;
+  }
+  h2{
+    font-size: 6rem !important;
+  }
+  h2 span{
+    font-size: 6rem !important;
+  }
+  h3{
+    font-size: 4rem !important;
+  }
+  p{
+    font-size: 3rem !important;
+  }
+  p span{
+    font-size: 2.875rem !important;
+  }
+  h5{
+    font-size: 4.5rem !important;
+  }
+  h6{
+    font-size: 2.85rem !important;
+  }
+  .port_insurance img {
+    max-width: 15rem;
+  }
+  .insurance_product .insurance_product_content img {
+    width: 100%;
+    max-width: 10rem;
+  }
+  .view_more_btn span {
+    font-size: 2.75rem;
+  }
+  .view_more_btn svg {
+    transform: translateY(-0.5rem);
+    width: 100%;
+    max-width: 5rem;
+    height: 10rem;
+  }
+  .incredible_rate_content a.btn{
+    font-size: 2rem;
+  }
+  .ceo_founder {
+    transform: translateY(34%);
+    margin-bottom: 10rem;
+  }
+  .get_quote_section .offset-6.w-50 {
+    margin-left: 20%;
+    width: 100% !important;
+  }
+  .get_quote_section .get_quote_section_content {
+    max-width: 70rem;
+  }
+  .get_quote_section .get_quote_section_content_text {
+    max-width: 70rem;
+  }
+  .why_choose_sec .accordion-button {
+    font-size: 2.5rem;
+  }
+  .accordion-flush .accordion-collapse .accordion-body {
+    font-size: 3rem;
+  }
+  .get_quote_section .get_quote_section_content_text a {
+    font-size: 2.75rem;
+  }
+  .blog_sect .card ul li {
+    font-size: 2.5rem;
+  }
+  .blog_sect .card a {
+    font-size: 3rem;
+  }
+  .search--bar input[placeholder]{
+    font-size: 3rem;
+    padding: 2rem ;
+  }
+  .blog_sect_pagination .page-item .page-link {
+    font-size: 4rem;
+  }
+  .search--bar .fa {
+    font-size: 3rem;
+    right: 3rem;
+  }
+  .recent_post ul li{
+    font-size: 3rem;
+  }
+  .recent_post p a{
+    font-size: 4rem;
+    font-weight: 600;
+  }
+  .top_nav ul.navbar-nav li a i{
+    font-size: 3rem;
+  }
+  .top_nav ul li.nav-item.contact_num:before{
+    height: 3.5rem;
+  }
+  .top_nav .searchbar_header span {
+    margin-left: 1rem;
+    transform: translateY(30%);
+    font-size: 3rem;
+    margin-top: -3rem;
+  }
+  .top_nav .searchbar_header i.fa {
+    transform: translateY(-20%);
+    font-size: 2.5rem;
+  }
+  .top_nav .searchbar_header {
+    height: 3.5rem;
+    width: 0.063rem;
+  }
+  .top_nav .navbar-brand img {
+    max-width: 18rem;
+  }
+  .second_nav .nav-item .nav-link {
+    font-size: 3.25rem !important;
+  }
+  .get_Quote {
+    font-size: 2.75rem;
+    margin-left: -1rem !important;
+  }
+  .navbar-light .navbar-toggler-icon {
+    font-size: 6rem;
+  }
+  .navbar-light .navbar-toggler{
+    margin: 2rem 0rem;
+  }
+  .right_reserved{
+    font-size: 3rem;
+  }
+  .searchbar_header_coll{
+    top: 6.75rem;
+  }
+  .searchbar_header_coll input{
+    width: 45rem !important;
+    font-size: 3rem;
+    padding-left: 2rem;
+  }
+  .searchbar_header_coll i.fa {
+    padding-right: 3rem;
+    font-size: 3rem;
+    top: 4.25rem;
+  }
+  .port_insurance{
+    margin-top: -5rem; } 
+  }
